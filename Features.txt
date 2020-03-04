@@ -1,0 +1,28 @@
+Version:
+    1.0
+
+
+The features:
+
+    Can do Extensions.
+
+    Object Oriented/Easy to read.
+
+    Has Settings
+
+Structure:
+
+    Main.py ==> File to start the program
+
+    IRC.py ==> File to run the bot.
+
+    Extensions.py ==> File to get the events/extensions.
+
+    Configs.py ==> File to get the settings
+
+    Folder : Extensions:
+
+        Extensions of the program.
+
+        Can add any file naming it with the name of a command and it will be in it.
+

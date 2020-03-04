@@ -1,0 +1,10 @@
+host irc.rizon.net
+port 6667
+nick bottok
+password 333111
+masters hellohello
+debug True
+channel #Devel
+user bottok bottok bottok
+passcode testing
+char #
