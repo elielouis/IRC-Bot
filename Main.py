@@ -1,11 +1,6 @@
 from IRC import Run # Importing the Runner
 from Configs import GetConfigs # Importing the settings getter
 
-__version__ 	= "1.0"
-__author__		= "tokivena"
-__email__ 		= "tokivena@gmail.com"
-__realname__	= "Elie Louis"
-
 def main():
 	var = """|       \            |  \    |  \              |  \      
 | $$$$$$$\  ______  _| $$_  _| $$_     ______  | $$   __ 
